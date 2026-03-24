@@ -2,25 +2,26 @@
 
 Cloud architecture & DevOps engineering.
 
-Structure. Reliability. Scale.
+**Structure. Reliability. Scale.**
 
 ---
 
-## What is DadaOps?
+## Overview
 
-DadaOps is an engineering lab focused on designing
+DadaOps is an engineering lab focused on building
 reliable, secure and scalable cloud systems.
 
-No hype. Just solid architecture.
+Opinionated, architecture-first.  
+No hype. Just solid systems.
 
 ---
 
-## Core areas
+## Focus
 
-- ⚙️ Infrastructure as Code
-- 🔐 Security-first design
-- 📊 Reliability & observability
-- 🐳 Container-based systems
+- ⚙️ Infrastructure as Code  
+- 🔐 Security-first design  
+- 📊 Reliability & observability  
+- 🐳 Container-native systems  
 
 ---
 
@@ -31,13 +32,14 @@ No hype. Just solid architecture.
 
 ---
 
-## Philosophy
+## Principles
 
-Structure over shortcuts.  
-Reliability over trends.
+- Structure over shortcuts  
+- Reliability over trends  
+- Clarity over complexity  
 
 ---
 
 ## Author
 
-Built by [@darioconte](https://github.com/DarioConte)
+DadaOps — by [@darioconte](https://github.com/DarioConte)
