@@ -2,7 +2,7 @@
 
 Cloud architecture & DevOps engineering.
 
-Small potato. Big systems. 🥔
+Structure. Reliability. Scale.
 
 ---
 
