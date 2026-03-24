@@ -46,4 +46,4 @@ No hype. Just solid systems.
 
 ## Author
 
-DadaOps — by [@darioconte](https://github.com/DarioConte)
+DadaOps
