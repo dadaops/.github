@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/1200x200/0b1e3b/ffffff?text=DadaOps+%E2%80%94+Cloud+Architecture+%26+DevOps" />
+    <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/1200x200/f6f8fa/0a2a4e?text=DadaOps+%E2%80%94+Cloud+Architecture+%26+DevOps" />
+    <img src="https://via.placeholder.com/1200x200/f6f8fa/0a2a4e?text=DadaOps+%E2%80%94+Cloud+Architecture+%26+DevOps" alt="DadaOps banner" width="100%" />
+  </picture>
+</p>
+
 # DadaOps
 
 Cloud architecture & DevOps engineering.
